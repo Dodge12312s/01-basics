@@ -9,7 +9,7 @@
 // 5. Return the bandName variable.
 
 function generateBandName(clothingColor, lastFoodEaten) {
-  // Your code here
+  // Your code her
   // Initialize bandName to an empty string
   let bandName = "";
   // Function to capitalize the first letter of each word
